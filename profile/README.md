@@ -6,7 +6,7 @@
 
 **Take-home material from the sessions Integrated Services of Kalamazoo presents at the CMHA Improving Outcomes conference.**
 
-[![ISK](https://img.shields.io/badge/iskzoo.org-2E55A5)](https://iskzoo.org) [![CMHA](https://img.shields.io/badge/CMHA-Improving%20Outcomes-2E55A5)](https://cmham.org) [![Contact](https://img.shields.io/badge/contact-AThomas%40iskzoo.org-5AB65F)](mailto:AThomas@iskzoo.org)
+[![ISK](https://img.shields.io/badge/iskzoo.org-2E55A5)](https://iskzoo.org) [![CMHA](https://img.shields.io/badge/CMHA-Improving%20Outcomes-2E55A5)](https://cmham.org) [![GitHub](https://img.shields.io/badge/GitHub-tthomas--ISK-2E55A5)](https://github.com/tthomas-ISK) [![Contact](https://img.shields.io/badge/contact-AThomas%40iskzoo.org-5AB65F)](mailto:AThomas@iskzoo.org)
 
 </div>
 
