@@ -22,8 +22,6 @@ When we present at Improving Outcomes, the slides only cover so much. This organ
 
 The repositories are private. To get read access, email **AThomas@iskzoo.org** with your name, your agency, your GitHub username, and the session you attended. You'll be added as a reader: you can browse, clone, and download everything, and open an issue if you have a question.
 
-No GitHub account yet? Creating one is free at [github.com/signup](https://github.com/signup).
-
 ## Winter 2026 · Ypsilanti
 
 Thursday, November 5, 2026, in the IT track at the Ann Arbor Marriott Ypsilanti at Eagle Crest.
