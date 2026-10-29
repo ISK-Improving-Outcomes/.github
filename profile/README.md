@@ -24,10 +24,11 @@ The repositories are private. To get read access, email **AThomas@iskzoo.org** w
 
 ## Winter 2026 · Ypsilanti
 
-Thursday, November 5, 2026, in the IT track at the Ann Arbor Marriott Ypsilanti at Eagle Crest.
+Thursday, November 5, 2026, in the IT and Quality tracks at the Ann Arbor Marriott Ypsilanti at Eagle Crest.
 
 | Session | Presenters | Repository |
 |---|---|---|
+| **CCBHC QBP Success: A Monthly Approach to Tracking and Improving Your Scores**<br>10:30 AM | [Warwick Barlow](https://github.com/WBarlowISK) | [IO-Conference__QBP-Success](https://github.com/ISK-Improving-Outcomes/IO-Conference__QBP-Success): the slides, a one-page monthly QBP blueprint, and a staff guide to the documents that drive the CCBHC measures |
 | **Build, Deploy, Host: Internal Software Development at a CMHSP**<br>2:00 PM | [Tony Thomas](https://github.com/tthomas-ISK) | [IO-Conference__Build-Deploy-Host](https://github.com/ISK-Improving-Outcomes/IO-Conference__Build-Deploy-Host): a fill-in starter process for agencies new to building software, ISK's own SDLC and templates, and the slides |
 | **AI In Action: Prompting, Productivity and Real-World Organizational Use Cases**<br>3:15 PM | [Warwick Barlow](https://github.com/WBarlowISK) and [Tony Thomas](https://github.com/tthomas-ISK) | [IO-Conference__Agents](https://github.com/ISK-Improving-Outcomes/IO-Conference__Agents): the five Claude Code agent files, hooks, brief, and synthetic sample policies from the live build |
 
@@ -37,4 +38,7 @@ Everything here is what works at ISK, shared as-is. It isn't a standard or a rec
 
 ## Contact
 
-Questions about any of this, or about building software in-house at an agency like ours, are welcome. Tony Thomas, Senior Manager, Software Development & Standards: AThomas@iskzoo.org.
+Questions about any of this are welcome, whether it's building software in-house or tracking CCBHC quality measures at an agency like ours.
+
+- **Tony Thomas**, Senior Manager, Software Development & Standards: [AThomas@iskzoo.org](mailto:AThomas@iskzoo.org)
+- **Warwick Barlow**, Senior Manager of Analytics & EHR Operations: [wbarlow@iskzoo.org](mailto:wbarlow@iskzoo.org)
